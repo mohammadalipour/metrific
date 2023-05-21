@@ -7,7 +7,7 @@ Introducing Metrific, an innovative GitHub project leveraging Elastic APM, PHP, 
 
 ### Prerequisites
 ``` bash
-git clone git clone https://github.com/mohammadalipour/metrific.git
+git clone https://github.com/mohammadalipour/metrific.git
 cd metrific
 docker-compose build --build-arg PHP_FPM=metrific-php
 docker-compose up -d
